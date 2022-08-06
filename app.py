@@ -1,6 +1,7 @@
 import streamlit as st
 import pickle
 import numpy as np
+import sklearn
 
 # page icon
 st.set_page_config(page_title='Laptop Price Prediction App', page_icon=':computer:', layout='wide')
