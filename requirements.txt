@@ -1,6 +1,6 @@
-
 numpy
 requests
 streamlit
-sklearn
+scikit-learn
+
 
